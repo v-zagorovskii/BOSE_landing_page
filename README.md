@@ -5,7 +5,7 @@ Technologies Used
 HTML: Structures the webpage.
 SCSS: Handles styling, with mixins and variables for improved code organization.
 Prerequisites
-Node.js: Version X.X.X (Make sure to replace X.X.X with the version you recommend for best compatibility.)
+Node.js: Version 14+
 Instructions to Run Locally
 Clone the Repository
 

@@ -1,9 +1,23 @@
 Project Overview
-This project involves creating a landing page for portable speakers, headphones, and other sound devices. The page includes sections with recommended products, product categories, company information, and a contact form. All content is responsive and looks attractive thanks to modern design principles.
+This project showcases a landing page dedicated to portable speakers, headphones, and other sound devices. It has sections for featured products, product categories, company information, and a contact form, all designed to be responsive and visually appealing.
 
 Technologies Used
-HTML: For structuring the webpage.
-SCSS: For advanced styling, using mixins and variables for better code organization and maintenance.
+HTML: Structures the webpage.
+SCSS: Handles styling, with mixins and variables for improved code organization.
+Prerequisites
+Node.js: Version X.X.X (Make sure to replace X.X.X with the version you recommend for best compatibility.)
+Instructions to Run Locally
+Clone the Repository
+
+git clone [<REPO_URL>](https://github.com/v-zagorovskii/BOSE_landing_page.git)
+cd BOSE_landing_page
+Install Dependencies Ensure Node.js is installed. Once in the project folder, install any dependencies.
+
+----> npm install
+
+Run the Project Start a local server to view the project.
+
+----> npm start
 
 Demo
 [DEMO LINK](https://v-zagorovskii.github.io/BOSE_landing_page/)
